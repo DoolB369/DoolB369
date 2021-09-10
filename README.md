@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Olá  👋</h1> 
 
+<h1 align="center"> ⚗ stack</h1> 
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
     
