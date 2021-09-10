@@ -1,3 +1,25 @@
+<h1 align="center">Olá  👋 Sou Douglas</h1> 
+<h3 align="center">Desenvolvedor de Software - Web</h3> 
+
+<h3 align="center">Faço com</h3> 
+<p align="center">
+   <img src="https://img.shields.io/static/v1?label= &message=React&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label= &message= Node&color=blue&style=for-the-badge&logo=NODE"/>
+  <img src="https://img.shields.io/static/v1?label= &message= Express&color=blue&style=for-the-badge&logo=EXPRESS"/>
+  <img src="https://img.shields.io/static/v1?label= &message=MongoDB&color=blue&style=for-the-badge&logo=MONGODB"/>
+  <img src="https://img.shields.io/static/v1?label= &message=MySQL&color=blue&style=for-the-badge"/>
+</p>
+
+
+<h3 align="center">Curiosidade</h3> 
+
+<p align="center"> 😄 Pronomes: Observador, Organização, Pensamento analítico, aprendizagem contínua  
+     <br><br> 📚 Atualmente estou aprendendo > React js 
+     <br><br> 📜 Citação: Não tente. Faça… ou não faça. Não há tentativa.
+</p> 
+<br>
+
+
 <!--
 **DoolB369/DoolB369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,22 +35,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Olá  👋</h1> 
 
-<h1 align="center"> ⚗ stack</h1> 
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-    
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>
-
-<p align="center"> 😄 Pronomes: Observador, Organização, Pensamento analítico  <br> 📚 Atualmente estou aprendendo > react <br>  Como chegar até mim: ...</p> 
-<br>
 
 <!--
 
 > 🌱 Atualmente estou aprendendo
+
+<br>  Como chegar até mim: ...
 
 ## Descrição do projeto 
 
@@ -139,5 +152,3 @@ Liste o time responsável pelo desenvolvimento do projeto
 The [MIT License]() (MIT)
 
 -->
-
-Não tente. Faça… ou não faça. Não há tentativa.
