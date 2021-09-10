@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<p align="center"> 😄 Pronomes: ...  <br> 📚 Atualmente estou aprendendo > react <br>  Como chegar até mim: ...</p> 
+<p align="center"> 😄 Pronomes: Observador, Organização, Pensamento analítico  <br> 📚 Atualmente estou aprendendo > react <br>  Como chegar até mim: ...</p> 
 <br>
 
 <!--
