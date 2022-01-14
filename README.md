@@ -11,13 +11,13 @@
 </p>
 
 
-<h3 align="center">Curiosidade</h3> 
+<!-- <h3 align="center">Curiosidade</h3> 
 
 <p align="center"> 😄 Pronomes: Observador, Organização, Pensamento analítico, aprendizagem contínua  
      <br><br> 📚 Atualmente estou aprendendo > React js 
      <br><br> 📜 Citação: Não tente. Faça… ou não faça. Não há tentativa.
 </p> 
-<br>
+<br> -->
 
 
 <!--
