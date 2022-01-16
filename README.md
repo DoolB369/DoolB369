@@ -1,5 +1,5 @@
 <h1 align="center">Olá  👋 Sou Douglas</h1> 
-<h3 align="center">Desenvolvedor de Software - Web</h3> 
+<h3 align="center">Desenvolvedor - Web</h3> 
 
 <h3 align="center">Faço com</h3> 
 <p align="center">
